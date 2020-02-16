@@ -10,12 +10,12 @@
 
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
-* Reflect on work in a written report
+* Reflection on a work in a written report
 
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./test_images/challange1.jpg "Challange"
 
 ---
 
@@ -23,14 +23,12 @@ The goals / steps of this project are the following:
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I .... 
+My pipeline consisted of 5 steps. 
+First image is converted into gray scale:
 
-In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
+[//]: # (Image References)
 
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
-
-![alt text][image1]
-
+[image1]: ./processing_images/gray.png "Gray"
 
 ### 2. Identify potential shortcomings with your current pipeline
 
